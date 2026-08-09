@@ -30,3 +30,23 @@ ___
 Time Spent: 1 Hour
 
 I was able to lapse 30 minutes of sketching but I couldn't lapsed the 30 minutes of research process.
+
+
+___
+# 5 August - 6 August 2026 
+I made a CAD design in Autodesk Fusion. I luckily modeled it, cause I found out that my original design is so fragile to be usable. 
+
+I made a new plan and design to solve this issue.
+My new design again consists of 3 main parts. But they are not 1 piece per part as the previous one.
+Now each part uses a few different pieces. These pieces will fit together to make an 3D object just like a 3D puzzle. This design will be way more durable and way more usable.
+
+<img width="1237" height="657" alt="image" src="https://github.com/user-attachments/assets/8b39800e-5ec3-415d-b858-9f8805e38dbc" />
+<img width="323" height="521" alt="image" src="https://github.com/user-attachments/assets/bae87c46-d1c5-4216-b6c9-5bbf3f869cd1" />
+<img width="228" height="390" alt="image" src="https://github.com/user-attachments/assets/468d2135-7b98-42db-8cd3-b8bd2a7f2aa3" />
+
+
+I didn't yet designed the puzzle joints. But I plan onworking on the joints this week.
+___
+I also want to modify the main body so it can be used as a container for templates and rulers.
+___
+Time Spent: 2 Hours
