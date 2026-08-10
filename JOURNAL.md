@@ -50,3 +50,19 @@ ___
 I also want to modify the main body so it can be used as a container for templates and rulers.
 ___
 Time Spent: 2 Hours
+___
+# 8 August - 10 August 2026
+I designed the puzzle piece sets in CAD. I will use these designs to visualize my project and to plan the outlines of the PCBs. I gave the holes 0.2 mm of clearance to be more reliable.
+
+These are some photos of the designs:
+
+<img width="892" height="547" alt="image" src="https://github.com/user-attachments/assets/d58cab18-517f-4031-a036-8105d4cc680c" />
+<img width="262" height="405" alt="image" src="https://github.com/user-attachments/assets/2906867f-a89a-41cb-ae77-6058b12fc634" />
+<img width="282" height="365" alt="image" src="https://github.com/user-attachments/assets/30f4cfcf-17fb-40a8-a0ce-d08a8b3ea65a" />
+<img width="866" height="551" alt="image" src="https://github.com/user-attachments/assets/1fb26f34-249b-4928-93d9-3e96ee8a55fa" />
+
+There are a total of 22 **unique** pieces. But the total piece count is 32 pieces.
+I know that this is a lot of different PCBs. But I couldn't figure out any other way to make it sturdier than the original 3 piece plan. 
+___
+Time Spent:4 Hours 45 Minutes
+
