@@ -78,5 +78,5 @@ After this one done. I only have a few things left to do to finish this project.
 <img width="333" height="313" alt="image" src="https://github.com/user-attachments/assets/4d4a6192-9052-431b-8b65-5e8114b546fa" />
 
 ___
-Time Spent : 50 Minutes
+Time Spent : 1 Hour
 ___
