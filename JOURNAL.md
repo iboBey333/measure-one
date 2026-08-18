@@ -72,5 +72,10 @@ I was gone for a few days.
 Last 2 days I worked on getting the required shapes of the PCBs from my CAD design to KiCad. I used something called DXF files that I just learned few days ago. Apparently they are very useful when you need to do something like this :) 
 
 After this one done. I only have a few things left to do to finish this project. The silkscreen and the build.
+<img width="297" height="852" alt="image" src="https://github.com/user-attachments/assets/4dbce524-1afd-4053-8170-1347aabaad48" />
+<img width="263" height="343" alt="image" src="https://github.com/user-attachments/assets/e3b5c00b-95af-4fa8-b5ba-c765ec0cf49e" />
+<img width="287" height="334" alt="image" src="https://github.com/user-attachments/assets/192edb41-3f54-4e1b-bc39-ac1b7e801a24" />
+<img width="333" height="313" alt="image" src="https://github.com/user-attachments/assets/4d4a6192-9052-431b-8b65-5e8114b546fa" />
+
 ___
 Time Spent : 50 Minutes
