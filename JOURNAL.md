@@ -64,5 +64,13 @@ These are some photos of the designs:
 There are a total of 22 **unique** pieces. But the total piece count is 32 pieces.
 I know that this is a lot of different PCBs. But I couldn't figure out any other way to make it sturdier than the original 3 piece plan. 
 ___
-Time Spent:4 Hours 45 Minutes
+Time Spent: 4 Hours 45 Minutes
+___
+# 17 August - 19 August 2026
+I was gone for a few days.
 
+Last 2 days I worked on getting the required shapes of the PCBs from my CAD design to KiCad. I used something called DXF files that I just learned few days ago. Apparently they are very useful when you need to do something like this :) 
+
+After this one done. I only have a few things left to do to finish this project. The silkscreen and the build.
+___
+Time Spent : 50 Minutes
