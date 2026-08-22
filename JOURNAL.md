@@ -81,3 +81,63 @@ ___
 
 Time Spent: 1 Hour
 ___
+# 19 August - 22 August 2026
+I sketched the "measuring lines" for the main function of the project, I don't know what they are called but I will refer them like this. My plan was normally only 30 cm but I added the lines for measuring in inches to make it universal. I also used the Minecraft font for the numbers, because it is one of my favourites.
+
+I also thought that the puzzle might be a bit hard for some because of that I did 2 different sets of pieces. They are exactly same dimensions **but** one is 
+with instructions, I will meniotn how it will work later this devlog, and the other one is without any instruction.
+
+Instructions have 3 different symbol types;
+
+1. Letters inside a rectangle
+
+   This symbol type consists of three symbols, `M_B`, `S`, and `S_P`. These symbols indicates which piece set the PCB is from. Each corresponds to a piece set:
+
+   1. `M_B` → Main Body
+   2. `S` → Slider
+   3. `S_P` → Slider Pointer
+
+2. Letters inside a circle
+
+   This symbol type is used to indicate which piece of the set each PCB belongs to. For example if the symbol is a A inside a cirle, the PCB is the piece A in it's set, if it is a B inside a circle it is the piece B and so on... Also these symbols are generally right beeside the type 1 symbols that indicate the set. This makes it easier to know which sets which part the PCB is.
+
+3. Only letters
+
+   This symbols type is the most used one. They indicate which part will be connected to the nearest side or the nearest slot. These symbols only show the letter of the piece that is gonna be connected not the group. But keep in mind that the indicated piece is in the same group as the PCB. As I said it usually shows what is gonna be connected to the **nearest** part, but sometimes there isn't enough available space so they get squeezed to the same collumn and it is impossible to know which side it is for. I solved this by using small arrows to indicate the side they are for. 
+
+
+I want to mention that all of these symbols are on the **silkscreen** layer of the PCB.
+
+
+These are the photos of all of the silkscreen symbols/sketches: 
+
+Type 1 (In a rectangle):
+
+<img width="759" height="189" alt="image" src="https://github.com/user-attachments/assets/0d85ecfa-9706-4d38-8984-fae76d028ee6" />
+
+
+Type 2 (In a circle):
+
+<img width="681" height="357" alt="image" src="https://github.com/user-attachments/assets/2d26647c-aaad-4b02-84e9-83f8972c9d99" />
+
+
+Type 3 (Only letters):
+
+<img width="598" height="258" alt="image" src="https://github.com/user-attachments/assets/d0bff1cf-19d2-4bd3-accf-87d9485503cf" />
+
+
+Also arrows are like this:
+
+<img width="607" height="88" alt="image" src="https://github.com/user-attachments/assets/4a19cce2-3a11-433e-8e7a-d84e22a5e0a5" />
+
+
+And finally the measuring lines:
+
+<img width="1391" height="143" alt="image" src="https://github.com/user-attachments/assets/6ce6e81a-ffe6-4f75-a9c8-727f95dfe920" />
+
+___
+After this done I only have 3 things left to do. 3D render for the forge page, uploading the gerber files to the github repo and writing a readme file.
+I think I can do these in less than 1 week.
+___
+Time Spent: 4 Hours 20 Minutes
+___
