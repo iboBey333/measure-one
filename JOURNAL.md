@@ -141,3 +141,33 @@ I think I can do these in less than 1 week.
 ___
 Time Spent: 4 Hours 20 Minutes
 ___
+# 23 August - 24 August 2026
+### *Cover image everybooodyyy!*
+I designed the cover image in blender. After a bit of material prep, light work and post processing (compositing) it was done.
+These took me more than 1 hour, like 2 hours but I only lapsed 1 hour and 10 minutes of it so that is my time spent.
+
+These are some photos of my setup:
+
+<img width="1377" height="775" alt="image" src="https://github.com/user-attachments/assets/4984f39a-3330-45fc-8200-6780ab3ada7e" />
+
+<img width="1147" height="697" alt="image" src="https://github.com/user-attachments/assets/bbbe4079-795e-4829-b57e-87c73bf5a411" />
+
+And these are some of the material and compositing photos:
+
+<img width="692" height="456" alt="image" src="https://github.com/user-attachments/assets/129a9a2b-ba20-4e69-90bc-848198446040" />
+
+<img width="695" height="363" alt="image" src="https://github.com/user-attachments/assets/a15fb4e9-0088-4e79-a95a-800db8b67c05" />
+
+<img width="668" height="257" alt="image" src="https://github.com/user-attachments/assets/6536e42c-19d1-484c-b7b3-e6268ef9e1bc" />
+
+
+I wanted to make this render look like an minimalist ad with studio lightning. I think I achieved that as much as possible with my level of experience (Beginner).
+Also I waited 1+ hours for rendering time in the Cycles render engine. I did a few round of rendering and tuned it a bit each time. And this is the final render which is going to be my cover image:
+
+<img width="2048" height="1080" alt="Measure-One_Final" src="https://github.com/user-attachments/assets/b24054a3-0546-4e3a-9555-b3a1fce0497f" />
+
+___
+This project is nearly done. Only remaining thing to do is editing the github repo. And I am looking to finish that in the next 2 days. 
+___
+Time Spent: 1 Hours 10 Minutes
+___
