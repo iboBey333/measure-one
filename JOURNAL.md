@@ -107,7 +107,7 @@ Instructions have 3 different symbol types;
 
 
 I want to mention that all of these symbols are on the **silkscreen** layer of the PCB.
-
+I also added "_W_I" at the end of these PCB files to indicate that it is with instructions
 
 These are the photos of all of the silkscreen symbols/sketches: 
 
@@ -169,5 +169,15 @@ Also I waited 1+ hours for rendering time in the Cycles render engine. I did a f
 ___
 This project is nearly done. Only remaining thing to do is editing the github repo. And I am looking to finish that in the next 2 days. 
 ___
-Time Spent: 1 Hours 10 Minutes
+Time Spent: 1 Hour 10 Minutes
+___
+# August 26 - August 27 2026
+I made a panelized pcb for every piece category. (Main_Body, Slider, Slider_Pointer, Main_Body_W_I, Slider_W_I, Slider_Pointer_W_I)
+And I extracted all of the gerber files from (23+3)*2 = ***52*** different PCB designs.
+
+These took a ***TON*** of time. I redid the panels nearly 2 times each and tested the gerber files if they work.
+
+I am going to add these files to github next day with the other things that I have to do in my repo.
+___
+Time Spent: 2 Hours 43 Minutes
 ___
