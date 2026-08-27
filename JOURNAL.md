@@ -142,7 +142,7 @@ ___
 Time Spent: 4 Hours 20 Minutes
 ___
 # 23 August - 24 August 2026
-### *Cover image everybooodyyy!*
+ **Cover image everybooodyyy!**
 I designed the cover image in blender. After a bit of material prep, light work and post processing (compositing) it was done.
 These took me more than 1 hour, like 2 hours but I only lapsed 1 hour and 10 minutes of it so that is my time spent.
 
