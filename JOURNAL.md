@@ -178,6 +178,10 @@ And I extracted all of the gerber files from (23+3)*2 = ***52*** different PCB d
 These took a ***TON*** of time. I redid the panels nearly 2 times each and tested the gerber files if they work.
 
 I am going to add these files to github next day with the other things that I have to do in my repo.
+
+A photo of one of the panelized PCBs:
+<img width="792" height="366" alt="image" src="https://github.com/user-attachments/assets/af78bec6-4521-4012-b275-a1292e8828ff" />
+
 ___
 Time Spent: 2 Hours 43 Minutes
 ___
