@@ -185,3 +185,19 @@ A photo of one of the panelized PCBs:
 ___
 Time Spent: 2 Hours 43 Minutes
 ___
+# August 28 2026
+Apparently some of my gerbers was not quite working. The edge cuts were malformed. I tried fixing them by changing the DXF file type -that I used in previous days- to DXF R12 ASCII. That didn't worked :/ After trying that for over half an hour I just redrew the edge cuts that were malformed. And that worked :] 
+
+I also tested all of them if it worked or not in JLCPCB. They turned out great!
+___
+Finally, I pushed these manufacturing (gerbers) and KiCad PCB files (.kicad_pro, .kicad_pcb etc.)
+
+<img width="393" height="430" alt="image" src="https://github.com/user-attachments/assets/a8a31b47-44c5-46f9-a69d-5231fb7ea2c2" />
+<img width="1433" height="442" alt="image" src="https://github.com/user-attachments/assets/24211874-e54e-4478-a35e-74a02377e97a" />
+
+___
+The only things left to do is, the BOM and the README file.
+I plan to do them in next 2 days.
+___
+Time Spent: 1 Hours 15 Minutes
+___
