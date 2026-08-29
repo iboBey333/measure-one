@@ -15,10 +15,10 @@ ___
 
 ## The Reason and the Inspiration for This Project
 
-I first had the idea to make this project when I saw JBlitzar's (btz) project "measure-one". He made an pcb ruler and I asked to myself that if a ruler that is made from PCB looks that cool how would I caliper look? Also at the time that I started this project I was looking to get an caliper so it lined up perfectly :] At the end I ended up with a project like this. Altough the process had some problems I had fun making this project.
+I first had the idea to make this project when I saw JBlitzar's (btz) project "measure-zero". He made an pcb ruler and I asked to myself that if a ruler that is made from PCB looks that cool how would I caliper look? Also at the time that I started this project I was looking to get an caliper so it lined up perfectly :] At the end I ended up with a project like this. Altough the process had some problems I had fun making this project.
 
 
-I also got the inspiration for measure-one's render from JBlitzar. I want to thank him A LOT. If you liked this project you might like his project too.
+I also got the inspiration for measure-one's render from JBlitzar. I want to thank him A LOT. If you liked this project you might like his project too. You can check out his project from this link: https://github.com/JBlitzar/measure-zero
 ___
 
 I made 2 version of the caliper PCB's. One with instructions and one without. I added these instructions cause some people may have problems putting together this caliper which has a total of 23 different piece designs. You can find how the instructions work in the next part.
