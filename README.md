@@ -105,6 +105,6 @@ When I looked get these PCBs from JLCPCB it was nearly $120 + shipping. And that
 ___
 ## License
 
-This project is open-source hardware licensed under the **CERN Open Hardware Licence Version 2 - Strongly Reciprocal**. 
+This project is licensed under the **CC BY-NC-SA 4.0 License**. 
 
-You may modify and redistribute this project under the terms of the **CERN-OHL-S v2**
+You may modify and redistribute this project under the terms of the **CC BY-NC-SA 4.0**, visit https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt for the license.
